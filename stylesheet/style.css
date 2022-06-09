@@ -15,18 +15,18 @@
   padding-left: 50px;
 }
 .cats-1{
-    background-image: -moz-linear-gradient(to left, orange , yellow);
+    background-image: linear-gradient(to left, orange , yellow);
     border-radius: 30px;
     width: 300px;
 }
 .cats-2{
-    background-image: -moz-linear-gradient(to left, deeppink , rgb(237, 96, 117));
+    background-image: linear-gradient(to left, deeppink , rgb(237, 96, 117));
     border-radius: 30px;
     width: 300px;
   
 }
 .cats-3{
-    background-image: -moz-linear-gradient(to left, rgb(74, 17, 230) , blue);
+    background-image: linear-gradient(to left, rgb(74, 17, 230) , blue);
     border-radius: 30px;
     width: 300px;
     height: 100px;
